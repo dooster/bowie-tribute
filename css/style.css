@@ -1,0 +1,39 @@
+body {
+  background-color: #132;
+  color: #0F1565
+}
+
+.content {
+  background-color: #CCC;
+  border-radius: 30px;
+  margin: 20px;
+  padding: 10px 0px;
+}
+
+.pullquote {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+#gallery {
+  margin: 10px;
+}
+
+#timeline {
+  margin-top: 10px;
+  text-align: justified;
+  font-size: 1.5em;
+}
+
+.video{
+  margin-left: -10px;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+footer {
+  color: silver;
+}
